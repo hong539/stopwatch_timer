@@ -1,6 +1,6 @@
 from django.urls import path
-from .views import timer_view
+from . import views
 
 urlpatterns = [
-    path('', timer_view, name='timer'),
+    path('', views.stopwatch, name='stopwatch')
 ]

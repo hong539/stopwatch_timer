@@ -4,6 +4,7 @@ Write a stopwatch_timer with python web framework Django.
 ## Setting Up
 
 * Writting Python codes with ChatGPT and others.
+* [prepare python dev_environment on Linux](https://github.com/hong539/setup_dev_environment/tree/main/programing_languages/python)
 
 ```shell
 #src: https://docs.djangoproject.com/en/4.2/intro/tutorial01/#creating-a-project
